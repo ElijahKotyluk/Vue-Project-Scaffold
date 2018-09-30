@@ -1,6 +1,6 @@
 # vue-project-scaffold
 
-This is a project scaffold using Vue.js as the front end framework and Express for the backend.
+This is a project scaffold/template using Vue.js as the front end framework and Express for the backend.
 
 ## file structure
 
