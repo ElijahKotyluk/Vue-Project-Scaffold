@@ -18,11 +18,11 @@ vue-project-scaffold/
   |   |   |   └── store.js
   |   |   ├── app.js
   |   |   ├── entry-client.js
-  |   |   ├── entry-server.js
-  |   ├── styles/
-  |   |   ├── _reset.scss
-  |   |   ├── _variables.scss
-  |   |   └── main.scss
+  |   |   └── entry-server.js
+  |   └── styles/
+  |       ├── _reset.scss
+  |       ├── _variables.scss
+  |       └── main.scss
   ├── .gitignore
   ├── *main.bundle.js
   ├── *main.bundle.css
