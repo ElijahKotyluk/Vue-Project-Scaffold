@@ -1,5 +1,5 @@
 {
-  "name": "vue-webpack-scaffold",
+  "name": "vue-project-scaffold",
   "version": "1.0.0",
   "description": "Project scaffold using Vue.js, Webpack, and a node server.",
   "main": "app.js",
